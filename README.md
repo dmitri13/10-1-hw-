@@ -42,7 +42,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![node1](https://github.com/dmitri13/10-1-hw-/blob/main/img/node1.png)`
+![node1](https://github.com/dmitri13/10-1-hw-/blob/main/img/node1.png)
 ![node2](https://github.com/dmitri13/10-1-hw-/blob/main/img/node2.png)
 
 ---
